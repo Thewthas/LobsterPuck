@@ -1,0 +1,200 @@
+{
+  "_Contact-DMT5yxRt.js": {
+    "file": "assets/Contact-DMT5yxRt.js",
+    "name": "Contact",
+    "imports": [
+      "_chunk-PVWAREVJ-WpkbxSs5.js"
+    ]
+  },
+  "_Footer-CWxUn2HX.js": {
+    "file": "assets/Footer-CWxUn2HX.js",
+    "name": "Footer",
+    "imports": [
+      "_chunk-PVWAREVJ-WpkbxSs5.js"
+    ]
+  },
+  "_chunk-PVWAREVJ-WpkbxSs5.js": {
+    "file": "assets/chunk-PVWAREVJ-WpkbxSs5.js",
+    "name": "chunk-PVWAREVJ"
+  },
+  "_lobster03-DfsCsuQ_.js": {
+    "file": "assets/lobster03-DfsCsuQ_.js",
+    "name": "lobster03",
+    "assets": [
+      "assets/lobster01-DfiuCy89.jpg",
+      "assets/lobster02-CAHklHo3.jpg",
+      "assets/lobster03-CCe31HD8.jpg"
+    ]
+  },
+  "app/assets/images/Prem.gif": {
+    "file": "assets/Prem-5Qq_r1sW.gif",
+    "src": "app/assets/images/Prem.gif"
+  },
+  "app/assets/images/group.jpg": {
+    "file": "assets/group-BBNbO3Uu.jpg",
+    "src": "app/assets/images/group.jpg"
+  },
+  "app/assets/images/lobster01.jpg": {
+    "file": "assets/lobster01-DfiuCy89.jpg",
+    "src": "app/assets/images/lobster01.jpg"
+  },
+  "app/assets/images/lobster02.jpg": {
+    "file": "assets/lobster02-CAHklHo3.jpg",
+    "src": "app/assets/images/lobster02.jpg"
+  },
+  "app/assets/images/lobster03.jpg": {
+    "file": "assets/lobster03-CCe31HD8.jpg",
+    "src": "app/assets/images/lobster03.jpg"
+  },
+  "app/assets/images/lobster04.jpg": {
+    "file": "assets/lobster04-BX5LxDym.jpg",
+    "src": "app/assets/images/lobster04.jpg"
+  },
+  "app/assets/images/lobster05.jpg": {
+    "file": "assets/lobster05-sC-RNvXh.jpg",
+    "src": "app/assets/images/lobster05.jpg"
+  },
+  "app/assets/images/lobster06.jpg": {
+    "file": "assets/lobster06-DrhqHrcg.jpg",
+    "src": "app/assets/images/lobster06.jpg"
+  },
+  "app/assets/images/lobster07.jpg": {
+    "file": "assets/lobster07-COVQM2w4.jpg",
+    "src": "app/assets/images/lobster07.jpg"
+  },
+  "app/assets/images/lobster08.jpg": {
+    "file": "assets/lobster08-Bua6e4Q6.jpg",
+    "src": "app/assets/images/lobster08.jpg"
+  },
+  "app/assets/images/lobster09.jpg": {
+    "file": "assets/lobster09-BxBuEgC7.jpg",
+    "src": "app/assets/images/lobster09.jpg"
+  },
+  "app/assets/images/lobstergal01.jpg": {
+    "file": "assets/lobstergal01-Ce1mWSQT.jpg",
+    "src": "app/assets/images/lobstergal01.jpg"
+  },
+  "app/assets/images/lobstergal02.jpg": {
+    "file": "assets/lobstergal02-1Ic7Zd-y.jpg",
+    "src": "app/assets/images/lobstergal02.jpg"
+  },
+  "app/assets/images/lobstergal03.jpg": {
+    "file": "assets/lobstergal03-wTmUrYHP.jpg",
+    "src": "app/assets/images/lobstergal03.jpg"
+  },
+  "app/assets/images/lobstergal04.jpg": {
+    "file": "assets/lobstergal04-CrShXUNp.jpg",
+    "src": "app/assets/images/lobstergal04.jpg"
+  },
+  "app/assets/images/lobstergal05.jpg": {
+    "file": "assets/lobstergal05-CTBcV5cv.jpg",
+    "src": "app/assets/images/lobstergal05.jpg"
+  },
+  "app/pages/AboutusFull.tsx?__react-router-build-client-route": {
+    "file": "assets/AboutusFull-BRXpdzUG.js",
+    "name": "AboutusFull",
+    "src": "app/pages/AboutusFull.tsx?__react-router-build-client-route",
+    "isEntry": true,
+    "imports": [
+      "_chunk-PVWAREVJ-WpkbxSs5.js",
+      "_Footer-CWxUn2HX.js",
+      "_Contact-DMT5yxRt.js"
+    ],
+    "assets": [
+      "assets/group-BBNbO3Uu.jpg"
+    ]
+  },
+  "app/pages/ContactFull.tsx?__react-router-build-client-route": {
+    "file": "assets/ContactFull-PlBrbDJt.js",
+    "name": "ContactFull",
+    "src": "app/pages/ContactFull.tsx?__react-router-build-client-route",
+    "isEntry": true,
+    "imports": [
+      "_chunk-PVWAREVJ-WpkbxSs5.js",
+      "_Footer-CWxUn2HX.js"
+    ]
+  },
+  "app/pages/Homepage.tsx?__react-router-build-client-route": {
+    "file": "assets/Homepage-BPqjeXno.js",
+    "name": "Homepage",
+    "src": "app/pages/Homepage.tsx?__react-router-build-client-route",
+    "isEntry": true,
+    "imports": [
+      "_chunk-PVWAREVJ-WpkbxSs5.js",
+      "_Footer-CWxUn2HX.js"
+    ],
+    "assets": [
+      "assets/lobstergal01-Ce1mWSQT.jpg",
+      "assets/lobstergal02-1Ic7Zd-y.jpg",
+      "assets/lobstergal03-wTmUrYHP.jpg",
+      "assets/lobstergal04-CrShXUNp.jpg",
+      "assets/lobstergal05-CTBcV5cv.jpg"
+    ]
+  },
+  "app/pages/Index.tsx?__react-router-build-client-route": {
+    "file": "assets/Index-V2YKysf4.js",
+    "name": "Index",
+    "src": "app/pages/Index.tsx?__react-router-build-client-route",
+    "isEntry": true,
+    "imports": [
+      "_chunk-PVWAREVJ-WpkbxSs5.js",
+      "_Footer-CWxUn2HX.js",
+      "_lobster03-DfsCsuQ_.js",
+      "_Contact-DMT5yxRt.js"
+    ],
+    "assets": [
+      "assets/Prem-5Qq_r1sW.gif"
+    ]
+  },
+  "app/pages/MenuFull.tsx?__react-router-build-client-route": {
+    "file": "assets/MenuFull-B6RFzhRI.js",
+    "name": "MenuFull",
+    "src": "app/pages/MenuFull.tsx?__react-router-build-client-route",
+    "isEntry": true,
+    "imports": [
+      "_chunk-PVWAREVJ-WpkbxSs5.js",
+      "_Footer-CWxUn2HX.js",
+      "_Contact-DMT5yxRt.js",
+      "_lobster03-DfsCsuQ_.js"
+    ],
+    "assets": [
+      "assets/lobster04-BX5LxDym.jpg",
+      "assets/lobster05-sC-RNvXh.jpg",
+      "assets/lobster06-DrhqHrcg.jpg",
+      "assets/lobster07-COVQM2w4.jpg",
+      "assets/lobster08-Bua6e4Q6.jpg",
+      "assets/lobster09-BxBuEgC7.jpg"
+    ]
+  },
+  "app/pages/Order.tsx?__react-router-build-client-route": {
+    "file": "assets/Order-CnDhpsIu.js",
+    "name": "Order",
+    "src": "app/pages/Order.tsx?__react-router-build-client-route",
+    "isEntry": true,
+    "imports": [
+      "_chunk-PVWAREVJ-WpkbxSs5.js",
+      "_Footer-CWxUn2HX.js"
+    ]
+  },
+  "app/root.tsx?__react-router-build-client-route": {
+    "file": "assets/root-D48eF_3j.js",
+    "name": "root",
+    "src": "app/root.tsx?__react-router-build-client-route",
+    "isEntry": true,
+    "imports": [
+      "_chunk-PVWAREVJ-WpkbxSs5.js"
+    ],
+    "css": [
+      "assets/root-CNLfXjuF.css"
+    ]
+  },
+  "node_modules/@react-router/dev/dist/config/defaults/entry.client.tsx": {
+    "file": "assets/entry.client-BfyJ3Dqf.js",
+    "name": "entry.client",
+    "src": "node_modules/@react-router/dev/dist/config/defaults/entry.client.tsx",
+    "isEntry": true,
+    "imports": [
+      "_chunk-PVWAREVJ-WpkbxSs5.js"
+    ]
+  }
+}
